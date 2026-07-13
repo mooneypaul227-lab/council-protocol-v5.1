@@ -1,0 +1,13 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+pytest==7.4.0
+gunicorn==21.2.0
+psycopg2-binary==2.9.7
+SQLAlchemy==2.0.21
+Pydantic==2.3.0
+uvicorn==0.23.2
+fastapi==0.103.0
+redis==5.0.0
+celery==5.3.1
+requests==2.31.0
